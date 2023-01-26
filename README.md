@@ -40,20 +40,6 @@ Important!!!
     c. the data can be in any language (Chinese, French, English, etc).
 
 
-To compile, run and submit
---------------------------
-- You need JDK for Java 8 or above
-- This exercise does not assume an IDE or any build tool except for a command line shell.  It includes simple scripts for typical dev environments.
-  You can make minor modifications to these files if necessary.
- * Unix-like:
-   * build.sh: cleans, compiles and creates cantest.jar file, and a veeva_solution.zip file for submission.
-   * run.sh: runs cantest.jar
- * Windows:
-   * build.bat: cleans, compiles and creates cantest.jar file, and a veeva_solution.zip file for submission.
-   * run.bat: runs cantest.jar
-- To submit your solution, please perform a final build and share veeva_solution.zip with us, preferably through Google Drive.
-
-
 assumptions
 ------------
 
